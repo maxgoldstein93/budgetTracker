@@ -1,6 +1,6 @@
 # Budget Tracker
 
-[CLICK HERE FOR LIVE HEROKU APPLICATION](https://fitnesstracker1023.herokuapp.com/)
+[CLICK HERE FOR LIVE HEROKU APPLICATION](https://floating-earth-66722.herokuapp.com/)
 
 ## Table of Contents
 * [Screenshots](#screenshots)
@@ -52,6 +52,10 @@ OR
 Use the live application via the Heroku link provided above
 
 ```
+
+## Demo
+
+![Budget Tracker](https://user-images.githubusercontent.com/69087369/97352795-7ba55e80-1869-11eb-8eab-6b621adaade1.gif)
 
 ## Built With
 * Heroku
